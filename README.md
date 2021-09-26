@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there I am Derek 👋
+
+I have been programming for over 50 years, and teaching for over 40 years.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DerekPeacock/DerekPeacock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:

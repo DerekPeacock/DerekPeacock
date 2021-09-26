@@ -2,6 +2,8 @@
 
 I have been programming for over 50 years, and teaching for over 40 years.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekPeacock&show_icons=true&theme=radical)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekPeacock)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
